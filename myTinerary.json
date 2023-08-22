@@ -1,0 +1,161 @@
+{
+    
+"cities":[
+    {
+        "city": "New York",
+        "country":"United States",
+        "image": "",
+        "description":"If there is a universal idea of a city, that is the one embodied by New York. We have seen it so many times in movies, that when you visit it for the first time it seems that you walk from scene to scene. This city is boundless and has so many faces that it would take several lifetimes to say that you know it well. Strolling through Central Park in autumn or spring, going to MoMA, the cradle of modern art, seeing the Statue of Liberty, the mythical skyscrapers like the Empire State Building, crossing the Brooklyn Bridge, Little Italy, Coney Island, is just a small part of everything you can do in New York. ",
+        "currency":"USD",
+        "departure_date": "2023-11-15",
+        "itinerary":"",
+        "user":"64deb62ba2eae40eed41b516"
+        
+    },
+    {
+        "city": "Rome",
+        "country":"Italy",
+        "image": "url de imagen",
+        "currency":"€/EUR",
+        "description":" The eternal city is a history lesson for any traveler. Besides, who hasn't felt the need to travel to Rome after watching one of Fellini's classic films, or who hasn't wanted to tour the city on a Vespa like in Rome Vacation? There is so much to do in Rome: go to the center of the Roman Empire, see the Colosseum and all the archaeological ruins, the Pantheon, cross the Sant'Angelo Bridge, the Spanish Steps, marvel at the works of art in the Vatican Museums. The Vatican's St. Peter's Basilica is also the most popular tourist attraction in Europe.",
+        "departure_date": "2023-12-15",
+        "itinerary":"",
+        "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "Paris",
+        "country":"France",
+        "image": "url de imagen",
+        "description":"It could occupy the first position among the most popular cities in the world; but this time, Paris, has remained in the third position. The city of light, the city of love, the city of literature, is full of attractions enough for a lifetime. It is the only city that has two places among the top ten most popular tourist attractions in Europe: the Eiffel Tower and Notre Dame. But what else? A whole class of art in the Louvre Museum, stroll through its neighborhoods like the Marais or the Latin Quarter, enjoy the gastronomy in some of its bistros, stroll along the banks of the Seine or visit the world of Amélie Poulain, Paris never ends! ",
+        "currency":"€/EUR",
+        "departure_date": "2023-09-15",
+        "itinerary":"",
+        "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "Queenstown",
+            "country":"New Zealand",
+            "image": "url de imagen",
+            "description":" On New Zealand's South Island, Queenstown has regained its energy and is once again welcoming travelers from all over the world. This town of some 15,000 inhabitants, located on the shores of a lake, is famous for its skiing and year-round hiking opportunities in the Remarkable mountain range. But bike trails in the area will be the big thing in the coming years.By 2025, the Queenstown Trails Trust aims to complete a network of cycle paths that will serve not only for walking, but also to connect workplaces, schools and other urban spaces. The star of this network is the Queenstown Route (128 km), one of the best Great Rides in New Zealand. It starts on the shores of Lake Wakatipu and heads east from Queenstown to Gibbston. For the more adventurous there is the Coronet Loop Trail, 50 km long, which goes through an incredible landscape. It is a single track route around Coronet Peak (1649 m), around which there is a ski resort. The route runs alongside waterfalls, river canyons, forests of nothofagus trees and the remains of settlements built along the Arrow River by Chinese miners who came in search of gold in the 19th century.",
+            "currency":"NZD",
+            "departure_date": "2023-10-20",
+            "itinerary":"",
+            "user":"64deb62ba2eae40eed41b516"
+
+    },
+    {
+        "city": "Barcelona",
+            "country":"Spain",
+            "image": "url de imagen",
+            "description":"The Mediterranean city welcomes travelers from all over the world who arrive spellbound by the surprising forms of Gaudi's architecture, the lively streets like the Ramblas, the varied museums, the most urban trends, exhibitions, trendy bars and restaurants. Barcelona is a cosmopolitan city but you can still walk around as if it were a village, with the different personality of each of its neighborhoods. The Sagrada Familia, the popular atmosphere of the Boqueria Market, the Gótic, the Raval, the cultural atmosphere of Gràcia, are just some of the must-sees.",
+            "currency":"€/EUR",
+            "departure_date": "2023-10-10",
+            "itinerary":"",
+            "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "Rio de Janeiro",
+            "country":"Brazil",
+            "image": "url de imagen",
+            "description":"When you climb to the top of the city on the Corcovado Mountain, such as to the viewpoint of the Statue of Christ the Redeemer, you can observe the fabulous location and beauty of Rio de Janeiro. The Botafogo inlet is a spectacular landscape. Rio de Janeiro is a place of mythical beaches, such as Ipanema or Copacabana, a place where the rhythm, festivity and Brazilian joy attract visitors from all over the world. You can not leave without climbing the icon of the city, the Sugar Loaf, the 338 meters high rock, which is accessed by a cable car with breathtaking views. ",
+            "currency":"BRL",
+            "departure_date": "2023-11-25",
+            "itinerary":"",
+            "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "Cartagena",
+            "country":"Colombia",
+            "image": "url de imagen",
+            "description":"Cartagena is a city located on the shores of the Caribbean Sea. Its colorful streets full of charm make it the gateway to South America. In Colombia, it is located in the north of the country, and is the capital of the Bolivar region. La Heroica', as it is called, is surrounded by several archipelagos and islands that are paradises for a true rest.Cartagena adds to its charms the attractions of an intense nightlife, cultural festivals and exuberant landscapes. The city's beaches invite you to sightsee, relax and have fun with the refreshing breeze and the warm waters of the sea.Its tropical climate will allow you to enjoy its beaches and other charms. This fantastic destination keeps the secrets of history in its walled city, in its balconies and in its narrow stone paths that inspired Gabriel García Márquez, winner of the Nobel Prize for Literature in 1982.Framed by a beautiful bay, Cartagena de Indias is one of the most beautiful and best preserved cities in the Americas; a treasure that, today, is one of the most visited tourist destinations in Colombia. ",
+            "currency":"COP$",
+            "departure_date": "2023-09-15",
+            "itinerary":"",
+            "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "Cuzco",
+            "country":"Peru",
+            "image": "url de imagen",
+            "description":" A trip to the encounter of the Inca mysteries passes for sure through Cuzco, the capital of Peru. However, the Peruvian constitution recognizes this city next to the Andes mountain range as the historical capital of the country. It was founded by none other than the sons of the sun god, or so the Inca mythology says. From the city you can make a lot of excursions to visit the Sacred Valley of the Incas or do the Inca Trail to Machu Picchu. Stroll through the San Pedro Market to take the pulse of the daily life of the people of Cuzco and dare to have a traditional breakfast to get enough energy to go out and discover the myth of the Incas.",
+            "currency":"PEN",
+            "departure_date": "2023-10-18",
+            "itinerary":"",
+            "user":"64deb6c7a2eae40eed41b518"
+    },
+    {
+        "city": "Budapest",
+        "country":"Hungary",
+        "image": "url de imagen",
+        "description":" Budapest, one of the most beautiful cities in the world, is the economic and cultural center of the country. The city is famous for its grand castles, ancient churches, attractive architectural bridges and impressive avenues. Popular with tourists, the city is a perfect blend of ancient architecture and contemporary lifestyle. No visit to Budapest is complete without a visit to the historic Buda Castle, the imposing St. Stephen's Basilica and the iconic Széchenyi Spa.",
+        "currency":"HUF",
+        "departure_date": "2023-10-15",
+        "itinerary":"",
+        "user":"64deb6c7a2eae40eed41b518"
+    },
+    {
+        "city": "Istanbul",
+            "country":"Turkey",
+            "image": "url de imagen",
+            "description":"First it was Byzantium, then Constantinople and now Istanbul. The city is a historic crossroads of cultures: Istanbul was the capital of four empires. Perhaps for this reason, and for its location on the Bosphorus, it is considered one of the most beautiful cities in the world. Istanbul is two worlds at once: that of yesterday and that of today, united by the Galata Bridge. A visit to the city will lead us to know treasures such as the Blue Mosque, Hagia Sophia, or the sumptuousness of the Topkapi Palace. All this without forgetting to browse the thousands of stores in the Grand Bazaar. ",
+            "currency":"TRY",
+            "departure_date": "2023-11-11",
+            "itinerary":"",
+            "user":"64deb6c7a2eae40eed41b518"
+    },
+    {
+        "city": "Tokyo",
+            "country":"Japan",
+            "image": "url de imagen",
+            "description":" Tokyo is known for being a dynamic and futuristic metropolis. It boasts a unique blend of styles, and hidden ancient temples blend with grand modern architecture. It has been a popular destination for decades, with more than 14 million foreigners visiting Tokyo every year. Besides cherry blossoms, Mount Fuji and sushi, there are plenty of fun activities in Tokyo, even for the little ones. A must-see is the Tokyo Tower, which was inspired by the Eiffel Tower, or the Tsukiji fish market, which is the largest in the world.",
+            "currency":"JPY",
+            "departure_date": "2024-01-15",
+            "itinerary":"",
+            "user":"64deb6c7a2eae40eed41b518"
+    },
+    {
+        "city": "Athens",
+            "country":"Greece",
+            "image": "url de imagen",
+            "description":"Athens is the heart of Greece and the cradle of philosophy, democracy and many values of Western civilization. Getting to know the city and its museums is as instructive as it is stimulating. We are not being very original if we advise a first-time visitor to Athens to start by seeing the Acropolis. However, this citadel raised on an imposing mass of rock is the soul of the city, its center of gravity, around which everyone, visitors and locals alike, revolves. Raised on a stone plateau, it presents an ambiguous aspect, robust and light at the same time. It is solidly rooted in the earth, but at the same time it seems to float out of time. It is inevitable to direct our steps there.",
+            "currency":"€/EUR",
+            "departure_date": "2024-10-15",
+            "itinerary":"",
+            "user":"64deb62ba2eae40eed41b516"
+    },
+    {
+        "city": "London",
+            "country":"Great Britain",
+            "image": "url de imagen",
+            "description":"Even if you drive on the left and measure distances in miles and yards, London is the most popular city in the world. History and character, iconic monuments such as Big Ben or the traditional cabs themselves are the ingredients for a perfect getaway. There is something for everyone: the art of the Tate Modern, the hottest fashion trends in the streets, the markets like Camden, the different parks to walk through. Go up to the London Eye, London can only be seen from the heights. ",
+            "currency":"£ /GBP",
+            "departure_date": "2024-11-15",
+            "itinerary":"",
+            "user":"64deb6c7a2eae40eed41b518"
+    },
+    {
+        "city": "ST. PETERSBURG",
+        "country":"Russia",
+        "image": "url de imagen",
+        "description":" Russia's second city is a window to the West. St. Petersburg, unlike Moscow, is a friendly city to be strolled along, such as Nevsky Avenue. It was built looking at the best of French architecture, and as a result we find the amazing Winter Palace, which transports us to the times of the Czars. Another architectural jewel, this one in Russian style, is the Church of the Savior on Spilled Blood, a beauty of an orthodox temple that is an icon of the city. For art lovers, one of the most important art galleries in the world, the Hermitage Museum, awaits.",
+        "currency":"RUB",
+        "departure_date": "2024-05-15",
+        "itinerary":"",
+        "user":"64deb6c7a2eae40eed41b518"
+    },
+
+    { 
+        "city": "Buenos Aires",
+       "country":"Argentina",
+       "image": "url de imagen",
+       "description":"Buenos Aires, officially the Autonomous City of Buenos Aires,is the capital of Argentina. It is located in the center west of the vast geography of the country, in the plains of the pampas, a land of traditions.It is a first class tourist destination, cradle of tango and soccer passion; but also a city of culture, literature, beauty, cosmopolitan, which always wanted to look at itself in the reflection of Paris.Beyond the surface, Buenos Aires surprises with its surprising personality.There is much to explore, interesting facts and surprises.Get ready for a more or less official teatime and forget the mate,point books in one of the most beautiful bookstores in the world, get on theoldest subway in South America, enjoy the widest avenue in the world. In short,get ready to get to know Buenos Aires in all its senses.",
+       "currency":"$ARS",
+       "departure_date": "2023-10-15",
+       "itinerary":"",
+       "user":"64deb6c7a2eae40eed41b518"
+
+    }
+
+]
+   
+}
