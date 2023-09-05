@@ -9,7 +9,8 @@ let schema = new Schema({
     currency:{ type: String, required: true},
     departure_date: { type: Date, required: true},
     itinerary:{type: String, required: false},
-    user: { type: Types.ObjectId, ref: 'users' }
+    user: { type: Types.ObjectId, ref: 'users' },
+    itinerary: [{ type: Types.ObjectId, ref: 'itineraries' }]
 },
 {
     timestamps: true

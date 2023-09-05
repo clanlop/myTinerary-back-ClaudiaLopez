@@ -12,7 +12,7 @@ async function read (req,res){
     }
 
     try{
-        const cities=await City.find(queries).populate('user');
+        const cities=await City.find(queries).populate('user').populate('itinerary');
         if(cities.length > 0){
         return res.status(200).json({
                 success: true,
