@@ -10,6 +10,15 @@ let schema = new Schema({
     coordinator:{
         name:{ type: String, required: true},
         photo:{ type: String, required: true},
+        activities:{
+            activity1:{type:String},
+            activity2:{type:String},
+            activity3:{type:String},
+            description1:{type:String},
+            description2:{type:String},
+            description3:{type:String}
+
+        }
     },
     city:[{type: Types.ObjectId, ref: 'cities'}] 
 
